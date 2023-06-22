@@ -1,0 +1,3 @@
+         P jobs /0*3/
+         M modes /0*16/
+         N event points /1*9/;
